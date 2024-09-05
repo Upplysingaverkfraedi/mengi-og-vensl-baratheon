@@ -1,6 +1,15 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/eaw_5ILO)
 # Mengi og vensl
 
+## Niðurhala
+Til að geta keyrt kóðan í verkefninu þá þarf að niðurhala eftirfarandi:
+1. Niðurhala numpy:
+   `pip install numpy`
+2. Niðurhala matplotlib:
+   `pip install matplotlib`
+3. Niðurhala networkx:
+   `pip install networkx`
+
 ## Leiðbeiningar
 
 - **Öll svör verða að vera rökstudd með skýrri röksemdafærslu.** Ekki verður veitt stig fyrir svör
